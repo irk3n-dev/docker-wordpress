@@ -28,6 +28,7 @@ RUN apk --no-cache add \
   php7-mbstring \
   php7-zip \
   php7-opcache \
+  php7-session \
   nginx \
   supervisor \
   curl \
